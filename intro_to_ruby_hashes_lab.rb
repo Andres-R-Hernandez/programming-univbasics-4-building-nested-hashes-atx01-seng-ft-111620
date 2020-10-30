@@ -79,4 +79,7 @@ def monopoly_with_fourth_tier
   money[:railroads][:names][:shortline_railroad] = {:mortgage_value => 800}
 end
 
+puts base_hash
+puts monopoly_with_second_tier
+puts monopoly_with_third_tier
 puts monopoly_with_fourth_tier

@@ -50,5 +50,3 @@ def monopoly_with_fourth_tier
   money[:railroads][:names][:b_and_o_railroad] = {:mortgage_value => 400},
   money[:railroads][:names][:shortline_railroad] = {:mortgage_value => 800}
 end
-
-monopoly_with_fourth_tier
